@@ -79035,7 +79035,7 @@ n=n.a
 if(n>600){s=A.ar(B.d.bw(127.5),0,0,0)
 r=p.e
 q=r==null?o:r.b
-r=r.b===1?"Hey There! Beta v1.1":""
+r=r.b===1?"Hey There! Beta v1.2":""
 r=A.cz(r,o,o,o,A.aue().$2$color$fontWeight(B.i,B.ax),o,o)
 r=A.aol(A.a([A.apS(new A.adW(p),6,new A.aF(0,0,p.f.a*0.015,0),B.Ix,B.a6,!0)],t.p),s,q,new A.c3(new A.aF(n*0.015,0,0,0),r,o))
 n=r}else n=A.aol(o,o,o,o)
