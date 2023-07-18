@@ -78571,7 +78571,7 @@ s.f.z3(A.alN(r,r,r,r,r,B.O,r,A.cL(q.b.toLowerCase()+" copied to clipboard: "+p,r
 $S:0}
 A.In.prototype={
 I(a){var s=null,r=A.b9(a,s,t.w).w.a,q=r.b,p=q*0.75,o=r.a,n=t.p,m=t.VO,l=o*0.005
-return A.oN(B.cb,A.a([new A.GM("assets/projects/attendance_keeper.png",p,s),A.a4P(s,A.fa(A.a([A.eh(A.a([A.fa(A.a([B.Qq,A.bx(s,s,o*0.01),B.QC],n),B.J,B.V,B.P),A.bx(s,q*0.01,s),A.fa(A.a([A.alV(A.bQ(A.a([A.bQ(s,A.e2(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xI],m),B.jL,"<"),s,s),A.bx(s,s,l),B.QD,A.bx(s,s,l),A.alV(A.bQ(A.a([A.bQ(s,A.e2(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xI],m),B.jL,"<"),s,s)],n),B.J,B.V,B.P),A.bx(s,q*0.03,s),new A.lv("View My CV",new A.a1T(),s)],n),B.cf,B.V,B.P)],n),B.J,B.V,B.P),s,s,o*0.1,s,p/3-50,s)],n),B.O,B.db)}}
+return A.oN(B.cb,A.a([new A.GM("assets/backgrounds/storm.gif",p,s),A.a4P(s,A.fa(A.a([A.eh(A.a([A.fa(A.a([B.Qq,A.bx(s,s,o*0.01),B.QC],n),B.J,B.V,B.P),A.bx(s,q*0.01,s),A.fa(A.a([A.alV(A.bQ(A.a([A.bQ(s,A.e2(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xI],m),B.jL,"<"),s,s),A.bx(s,s,l),B.QD,A.bx(s,s,l),A.alV(A.bQ(A.a([A.bQ(s,A.e2(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xI],m),B.jL,"<"),s,s)],n),B.J,B.V,B.P),A.bx(s,q*0.03,s),new A.lv("View My CV",new A.a1T(),s)],n),B.cf,B.V,B.P)],n),B.J,B.V,B.P),s,s,o*0.1,s,p/3-50,s)],n),B.O,B.db)}}
 A.a1T.prototype={
 $0(){},
 $S:0}
@@ -78640,7 +78640,7 @@ m=m.a
 if(m>600){s=A.ar(B.d.bw(127.5),0,0,0)
 r=o.e
 q=r==null?n:r.b
-r=r.b===1?"Hey There! Beta v1.3":""
+r=r.b===1?"Hey There! Beta v1.4":""
 r=A.cL(r,n,n,n,A.atV().$2$color$fontWeight(B.i,B.aw),n,n)
 p=A.a([A.apz(new A.adF(o),6,new A.aF(0,0,o.f.a*0.015,0),B.Iu,B.a5,!0)],t.p)
 m=new A.uV(new A.c3(new A.aF(m*0.015,0,0,0),r,n),p,q,s,new A.C7(n,n,1/0,56),n)}else m=new A.K4(A.ct(n,n,B.l,n,n,n,n,n,n,n,n,n,n),B.Lz,n)
