@@ -78963,7 +78963,7 @@ s.f.z8(A.am4(r,r,r,r,r,B.P,r,A.cz(q.b.toLowerCase()+" copied to clipboard: "+p,r
 $S:0}
 A.Iv.prototype={
 I(a){var s=null,r=A.aqZ(s,new A.a27()),q=A.b9(a,s,t.w).w.a,p=q.b,o=p*0.75,n=o/3-50,m=t.p,l=q.a,k=t.VO,j=l*0.005
-return A.oR(B.cc,A.a([new A.GQ("assets/backgrounds/storm.gif",o,s),A.Kb(s,A.e6(A.a([new A.L4(5,new A.p5(B.F3,1e4,B.NR,r,s),s)],m),B.J,B.T,B.O),s,s,s,10,n,s),A.Kb(s,A.fb(A.a([A.e6(A.a([A.fb(A.a([B.Qt,A.bx(s,s,l*0.01),B.QF],m),B.J,B.T,B.O),A.bx(s,p*0.01,s),A.fb(A.a([A.amc(A.bS(A.a([A.bS(s,A.e4(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xP],k),B.jN,"<"),s,s),A.bx(s,s,j),B.QG,A.bx(s,s,j),A.amc(A.bS(A.a([A.bS(s,A.e4(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xP],k),B.jN,"<"),s,s)],m),B.J,B.T,B.O),A.bx(s,p*0.03,s),new A.lw("View My CV",new A.a28(),s)],m),B.ch,B.T,B.O)],m),B.J,B.T,B.O),s,s,l*0.1,s,n,s)],m),B.P,B.dc)}}
+return A.oR(B.cc,A.a([new A.GQ("assets/projects/attendance_keeper.png",o,s),A.Kb(s,A.e6(A.a([new A.L4(5,new A.p5(B.F3,1e4,B.NR,r,s),s)],m),B.J,B.T,B.O),s,s,s,10,n,s),A.Kb(s,A.fb(A.a([A.e6(A.a([A.fb(A.a([B.Qt,A.bx(s,s,l*0.01),B.QF],m),B.J,B.T,B.O),A.bx(s,p*0.01,s),A.fb(A.a([A.amc(A.bS(A.a([A.bS(s,A.e4(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xP],k),B.jN,"<"),s,s),A.bx(s,s,j),B.QG,A.bx(s,s,j),A.amc(A.bS(A.a([A.bS(s,A.e4(s,s,B.bD,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"dev"),B.xP],k),B.jN,"<"),s,s)],m),B.J,B.T,B.O),A.bx(s,p*0.03,s),new A.lw("View My CV",new A.a28(),s)],m),B.ch,B.T,B.O)],m),B.J,B.T,B.O),s,s,l*0.1,s,n,s)],m),B.P,B.dc)}}
 A.a27.prototype={
 $1(a){return new A.iW(B.cd,B.kv,B.et,A.a([B.lh,B.ll,B.eS,B.hN],t.t_),null,null).abU(0,a)},
 $S:163}
